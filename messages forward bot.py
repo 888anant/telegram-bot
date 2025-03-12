@@ -19,8 +19,8 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Bot credentials - Replace with your actual token from BotFather
-BOT_TOKEN = "7909586945:AAEqJBSqQuRKnixO6C4tuPUGfaOsvCnZOyc"  # Replace this with your actual token
-ADMIN_ID = 7773568657  # Replace with your Telegram user ID (as an integer)
+BOT_TOKEN = "replace_this"  # Replace this with your actual token
+ADMIN_ID = replace_this  # Replace with your Telegram user ID (as an integer)
 
 # Channel information
 CHANNEL_USERNAME = "hackeddmodz"  # Your channel username without the @ symbol
